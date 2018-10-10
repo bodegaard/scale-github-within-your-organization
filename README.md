@@ -18,7 +18,7 @@ Join advocates and experts as they share their experiences using and scaling Git
 
 #### Prerequisites
 
-_Welcome! :wave: This is the source repository for the [Scale GitHub Within Your Organization](https://github.com/universeworkshops/scale-github-within-your-organization) Universe Workshop. Be sure to follow the prerequisite(s) below before coming to the workshop to get started!_
+_Welcome! :wave: This is the source repository for the [Scale GitHub Within Your Organization](https://githubuniverse.com/workshops/#scale-github-within-your-organization) Universe Workshop. Be sure to follow the prerequisite(s) below before coming to the workshop to get started!_
 
 - :point_right: **GitHub Account.** If you don't already have an account with GitHub, sign up and create a new account at https://github.com/join before the workshop.
 - :point_right: **Internet Access**.
